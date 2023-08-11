@@ -1,0 +1,21 @@
+body {
+ background-color: gold;
+}
+
+#score {
+    font-size: 40px;
+    float: left;
+    margin-left:50px;
+}
+
+#timer {
+    font-size: 40px;
+    float: right;
+    margin-right: 50;
+}
+
+#draw_sketch {
+    color: red;
+    font-weight: 600;
+}
+
